@@ -1,0 +1,16 @@
+.github/workflows/continuous.yml
+  h_ef6223c7e94c9f 1-33
+.smalltalk.ston
+  h_ef6223c7e94c9f 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "743ff8b3da659930f583861946ad5c32e7b396eb",
+  "prompts": {},
+  "humans": {
+    "h_ef6223c7e94c9f": {
+      "author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}

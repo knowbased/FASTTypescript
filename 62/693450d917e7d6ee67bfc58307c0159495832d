@@ -1,0 +1,14 @@
+.smalltalk.ston
+  h_ef6223c7e94c9f 4-6,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "62693450d917e7d6ee67bfc58307c0159495832d",
+  "prompts": {},
+  "humans": {
+    "h_ef6223c7e94c9f": {
+      "author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}

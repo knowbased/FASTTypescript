@@ -1,0 +1,19 @@
+.github/workflows/continuous.yml
+  s_8370646b17663b::t_6f19b10d452349 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "be091d8b2efe3ddda67e91a0ec4cdf98cc692730",
+  "prompts": {},
+  "sessions": {
+    "s_8370646b17663b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8ecf-ec63-7271-854c-5749d17435a4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}

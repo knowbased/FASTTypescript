@@ -1,0 +1,14 @@
+BaselineOfFASTTypeScript/BaselineOfFASTTypeScript.class.st
+  h_ef6223c7e94c9f 52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0336d793304ee213899c056e1ce6aacacf498163",
+  "prompts": {},
+  "humans": {
+    "h_ef6223c7e94c9f": {
+      "author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}
